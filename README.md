@@ -6,5 +6,5 @@ En este repositorio podras encontrar todo los necesario si deseas clonar este re
 
 
 * Incluimos:
-** fpdf.sql
+* fpdf.sql
 
